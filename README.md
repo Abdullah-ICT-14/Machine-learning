@@ -1,3 +1,3 @@
 # Machine-learrning
 ## Pandas,numpy,matplotlib,scikit learn
-### Project-Heart disease, Buldozer-price-prediction-project
+### Project - 1.Heart disease, 2. Buldozer-price-prediction
